@@ -1,2 +1,2 @@
 **HI**
-Software Developer
+I'm Self Taught Software Developer
